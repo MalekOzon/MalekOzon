@@ -15,7 +15,7 @@ As a dedicated learner, I am always eager to expand my knowledge 🏆 and stay a
 
 🟠 My journey as a Frontend developer is defined by continuous learning and a thirst for excellence. I look forward to new challenges and opportunities that allow me to push the boundaries of web development and create impactful solutions.
 
-📫 You can reach me at : abdulilahalhamwi@gmail
+📫 You can reach me at : malekozon123@gmail.com
 
 Let's connect and explore exciting possibilities together! Feel free to reach out. 🤝
 
