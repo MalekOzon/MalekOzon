@@ -1,10 +1,10 @@
-<h2 align="left">Hi there 👋 I'm Malek Aozon</h2>
+<h2 align="left">Hi there 👋 I'm Malek ozon</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">As a Software Engineering student 👩‍💻 at Albaath University, specializing in Informatics Engineering, I am deeply committed to honing my skills and crafting exceptional digital experiences💫.<br><br>My GitHub repositories serve as a testament to my proficiency in web development 🛠 , with a focus on projects utilizing React.js and other cutting-edge JavaScript frameworks🌱.<br><br>From creating responsive user interfaces to implementing seamless animations, I strive to deliver solutions that captivate and delight users🌟.<br><br>With a proactive problem-solving approach 💡 and a relentless drive for innovation, I continuously seek to push boundaries and embrace new challenges in the dynamic tech landscape.<br><br>As a dedicated learner, I am always eager to expand my knowledge 🏆 and stay abreast of industry trends.<br><br>🟠 My journey as a Frontend developer is defined by continuous learning and a thirst for excellence. I look forward to new challenges and opportunities that allow me to push the boundaries of web development and create impactful solutions.<br><br>📫 You can reach me at : malekozon123@gmail.com<br><br>Let's connect and explore exciting possibilities together! Feel free to reach out. 🤝</p>
+<p align="left">As a Software Engineering 👩‍💻 , specializing in Informatics Engineering, I am deeply committed to honing my skills and crafting exceptional digital experiences💫.<br><br>My GitHub repositories serve as a testament to my proficiency in web development 🛠 , with a focus on projects utilizing React.js and other cutting-edge JavaScript frameworks🌱.<br><br>From creating responsive user interfaces to implementing seamless animations, I strive to deliver solutions that captivate and delight users🌟.<br><br>With a proactive problem-solving approach 💡 and a relentless drive for innovation, I continuously seek to push boundaries and embrace new challenges in the dynamic tech landscape.<br><br>As a dedicated learner, I am always eager to expand my knowledge 🏆 and stay abreast of industry trends.<br><br>🟠 My journey as a Frontend developer is defined by continuous learning and a thirst for excellence. I look forward to new challenges and opportunities that allow me to push the boundaries of web development and create impactful solutions.<br><br>📫 You can reach me at : malekozon123@gmail.com<br><br>Let's connect and explore exciting possibilities together! Feel free to reach out. 🤝</p>
 
 ###
 
